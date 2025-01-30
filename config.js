@@ -8,7 +8,7 @@ global.video= "" ;
 global.port =process.env.PORT 
 global.appUrl=process.env.APP_URL || ""     // put your deploy app/bot url here, for 24/7 for (render , koyeb, glitch)
 global.email ="peterbamidele.2024@gmail.com"
-global.location="Nigeria,Osun,Oshogbo."
+global.location="Nigeria,Lagos,Oshogbo."
 
 
 global.mongodb= process.env.MONGODB_URI || ""
